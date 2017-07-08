@@ -79,7 +79,7 @@ This website template was front-page template for events website. one-page web a
 				while ( $the_query->have_posts() ) {
 					$the_query->the_post();
 					?>
-                    <div class="group">
+                    <div class="group"> 
                         <h3>
                         	<span class="date">
                                 <?php
